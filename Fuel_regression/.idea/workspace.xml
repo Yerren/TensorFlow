@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57331a55-c908-4b5f-bfb9-02900e5e178e" name="Default Changelist" comment="" />
+    <list default="true" id="cd5537ce-2882-42ec-befa-db21fc7b71c6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Text_classification/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Text_classification/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,10 +13,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/text_clas.py">
+        <entry file="file://$PROJECT_DIR$/fuel_reg.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+            <state relative-caret-position="455">
+              <caret line="133" column="6" selection-start-line="133" selection-start-column="6" selection-end-line="133" selection-end-column="6" />
               <folding>
                 <element signature="e#0#82#0" expanded="true" />
               </folding>
@@ -37,23 +39,23 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/text_clas.py" />
+        <option value="$PROJECT_DIR$/fuel_reg.py" />
       </list>
     </option>
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
-        <option value="$PROJECT_DIR$/.idea/Text_classification.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/Fuel_regression.iml" />
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
         <option value="$PROJECT_DIR$/.idea/modules.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="742" />
-    <option name="width" value="627" />
+    <option name="x" value="676" />
+    <option name="width" value="696" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -62,22 +64,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Text_classification" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Text_classification" type="462c0819:PsiDirectoryNode" />
+              <item name="Fuel_regression" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fuel_regression" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -96,20 +95,20 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="57331a55-c908-4b5f-bfb9-02900e5e178e" name="Default Changelist" comment="" />
-      <created>1562132653302</created>
+      <changelist id="cd5537ce-2882-42ec-befa-db21fc7b71c6" name="Default Changelist" comment="" />
+      <created>1562134962342</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1562132653302</updated>
+      <updated>1562134962342</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="742" y="0" width="627" height="735" extended-state="0" />
+    <frame x="676" y="0" width="696" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24965326" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24957556" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
@@ -128,10 +127,10 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/text_clas.py">
+    <entry file="file://$PROJECT_DIR$/fuel_reg.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+        <state relative-caret-position="455">
+          <caret line="133" column="6" selection-start-line="133" selection-start-column="6" selection-end-line="133" selection-end-column="6" />
           <folding>
             <element signature="e#0#82#0" expanded="true" />
           </folding>
